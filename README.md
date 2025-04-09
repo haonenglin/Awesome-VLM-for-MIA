@@ -55,7 +55,7 @@
 | 48    |UniMed-CLIP| UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for Diverse Medical Imaging Modalities      | Medical       |[PDF](https://arxiv.org/pdf/2412.10372)  |
 
 
-##Papers on Medical Report Generation using VLMs
+##Medical Report Generation
 ---
 | Index | Paper Names  | PDF Link       |
 |:----:|:----------|:-----------|
@@ -83,7 +83,7 @@
 
 
 
-##Papers on Medical VQA using VLMs
+##Medical VQA
 ---
 | Index | Paper Names  | PDF Link       |
 |:----:|:----------|:-----------|
@@ -108,7 +108,7 @@
 
 
 
-##Papers on Segmentation using VLMs
+##Segmentation
 ---
 | Index | Paper Names  | PDF Link       |
 |:----:|:----------|:-----------|
@@ -144,7 +144,7 @@
 
 
 
-##Papers on Anomaly Detection using VLMs
+##Anomaly Detection
 ---
 | Index | Paper Names  | PDF Link       |
 |:----:|:----------|:-----------|
@@ -165,7 +165,7 @@
 
 
 
-##Papers on Medical Image Classification using VLMs
+##Medical Image Classification
 ---
 | Index | Paper Names  | PDF Link       |
 |:----:|:----------|:-----------|
@@ -203,7 +203,7 @@
 
 
 
-##Papers on Medical Image Synthesis using VLMs
+##Medical Image Synthesis
 ---
 | Index | Paper Names  | PDF Link       |
 |:----:|:----------|:-----------|
@@ -221,7 +221,7 @@
 
 
 
-##Papers on Medical Image-Text Retrieval using VLMs
+##Medical Image-Text Retrieval
 ---
 | Index | Paper Names  | PDF Link       |
 |:----:|:----------|:-----------|
@@ -233,7 +233,7 @@
 | 6    | X-TRA: Improving Chest X-ray Tasks with Cross-Modal Retrieval Augmentation      |[PDF](https://arxiv.org/pdf/2302.11352)  |
 
 
-##Papers on Medical Multi-task Learning using VLMs
+##Medical Multi-task Learning
 ---
 | Index | Paper Names  | PDF Link       |
 |:----:|:----------|:-----------|
@@ -253,7 +253,7 @@
 
 
 
-##Papers on Other Image Analysis Tasks using VLMs
+##Other Image Analysis Tasks
 ---
 | Index | Paper Names  | Tasks  | PDF Link       |
 |:----:|:----------|:----------|:-----------|
