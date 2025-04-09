@@ -93,7 +93,10 @@
 | 11    | Open-Ended Medical Visual Question Answering Through Prefix Tuning of Language Models      |[PDF](https://arxiv.org/pdf/2303.05977)  |
 | 12    | Interpretable medical image Visual Question Answering via multi-modal relationship graph learning      |[PDF](https://pdf.sciencedirectassets.com/272154/1-s2.0-S1361841524X00055/1-s2.0-S1361841524002044/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBMaCXVzLWVhc3QtMSJIMEYCIQCnXXc4IiHdiQ2Gi7p6%2Bvm4AfuLeqspymB%2BkRXNE%2BfCkQIhANPv7OXZbH1Yvq9wxtJRAi0gg3hGTR5b1Zo59HIgbyAiKrwFCIz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1IgwZWkNoLYB3icpCILYqkAU9i2UKZ1yo3bAEBlTVmfSdenCY7U12YXL0bPM%2B13pthGMb4l7YCpBBk6V1IDWtekqe2q32ddKDW4nt%2B4F2rVA8U3WfW2mYJ%2B7pDwOQK1k4XUotOvfaPxOWiCZ22qumMNHWPJKxSW2%2BOc%2BiLBVa8jjVBKvyweURu3CEDDiXB1ujMisJ2u7BjIm9DyR%2Bi8q1r1Box4UMYsYWt71mUIFAVVW7I%2BdlBjQMCnIrO%2BvtI7b9CgNvQM5xqMQG2A2kADyMntHuHnTxFlIKuQGk9K5e2lS%2FZGsv07CbNW3OAmjIoGVYUpmGWZWik9eWRcQpjCTR2RGIjr%2F6FUKbWK2L0vWQmm0qPxdz%2BseVyP5t6KjO3szYfiXuIfi007midllfP88839ly%2BEjky9NIySyXTZUydS5gaMzReS%2FgC4FBxZKA%2B7%2Bt9HSj%2BBhgtLE20vCgBdOqHco0c3mblP6%2BWCWJOH368KMqTukP95EMXMNAo0Y21u49DL36IM61qtiCfUFv8teEgxqS5WdK5slohbP1FrP0vOw0VRjjvnbB4h9koaaqTsSYaetW4DB5qPyMg3u2ljLeTSskmniFFOtgGtNwiJWNgP9cDx%2FwBjZueXQoJQl%2Bt%2BDZY9fCsG86EHSyKAownsXJegSOq8RBVH5b9%2Bs1JljSH9eRa9nAByVOxwWlvOQ1YdjEH3qR0u7Qx6kmnYMd%2BS3LIT2NRF6B1Gh9HRskenSiRHp%2BlgUOTjbXQfcG5kIvs9GYWU7Az7c1AGJ3Troqg%2B5Wxq2a4fWZOF%2BSaCVWndU%2BdbVnFan82YDtWjXT3KG9RM7Td%2FLq%2FPaNXE7ybt8tbUyMgPsMPGbSnPmn4l4DzsXF5I%2F9vMzUFwT6kExmVpArlzebpTDiotm%2FBjqwAcJk4rtg8jwUAj6LSI8j7HgTRrD%2BL%2FFtB9HwatEU%2BgB%2FVe2SbwnbxwgmIfmwy%2FUcf9hqY3B6vC6zk4gOuMjMo3y%2BQzA167rnNTAI8vaZ7w%2FmnOq7OYUiBJpz1dIOFSdhVk7ug3JulMSRp1Se2blRcFZbRLZ1Brmp%2FBqEySFrQl0CkyIx%2BqpA0vZhFl%2BuQcuAeD%2B8ZKN88qDGZNuqDIfIQEscwfyXSCQDqMmyS3DfxQPq&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250409T114932Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYVWOHQCHO%2F20250409%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=71a1f389ed852eeff5d0b993a055b38f0dba32f8db08307121bbfb8bd7220ba1&hash=f72a5053a203ee709bdf1b9fbe780c7583f4935e09152a27e71939c0f69e68ec&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1361841524002044&tid=spdf-dce38791-e1df-4def-9d93-bcec132be84e&sid=6472ce05872ad34ab77a4da572218302f48dgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=120d5956055a045a520501&rr=92d9c81bfe378582&cc=hk)  |
 | 13    | DermaVQA: A Multilingual Visual Question Answering Dataset for Dermatology      |[PDF](https://papers.miccai.org/miccai-2024/paper/2444_paper.pdf)  |
-
+| 14    | Harnessing the potential of large language models in medical education: promise and pitfalls      |[PDF](https://watermark.silverchair.com/ocad252.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA3QwggNwBgkqhkiG9w0BBwagggNhMIIDXQIBADCCA1YGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMO8PsdoemXjM7ufDnAgEQgIIDJ_Sd2_4NfmXOUtlZkNYtCxmL-tXTIEI62HoooYiwcfBkWEeMvHyiMgLD0ikV3FGUYrKL1OEMJY4vLMPtXWILQL90QssxQeghFI5-5hWNvFQlH2wlL-5IMA956G0GifG4t0iyj83bSXG-Kxp1S3KeCY-tudGrgMIy8VsZQn8FoWhhtAcNZbYsdQzWLe8142QMSc8rZTn3_voQWHm9CJc34KroYR-wPBcMtZo9ATCnCqHE2ZGGMhdhh3EsgiLOqAXieWtA3E0swIGXYbFvMHs36Ru6YPs6qddU1xA8J8PV3WD9r8ulgVjbjXmFqz8hP3hz4XHdDu03mn7rHFX3Bwm3dFwd4BPqozrdEcxiUusJwzNJjjHg_Gg0zcSmoOsHuhqWtzBitWKK9yL2a2ldEAt35IfW-WfWwHmrX6_xFAddm6Nk-f-f_jSm-AJ2nj1ip3aHrpvWnedlfi3KVWJdY338Hccj3BkvWXwXTG7K63DqGl8UDiyGxlxS2BAlYt1l52yXn1DYo-tiCnAauIcB2Y7y9AKCHuT9_xIBCB5_ZoIUibvfB6lyV3WJI6DING9Ce3GZn3japfNCAnZkFiuzHr6yGj6wovIJaCJckkKIjTJVbye6uuE2ssH_En1eQVLmYpQUdEM4y7cXkKxozMDPKNupy25FcieJuPm1CWP1cp7fLG7tSZ8-ePra-GvwqnVMj6hDH13hzWjn08oW6Ma9K7nTS5YYQ-4id79DApmfQAuIIGr3GXGn7j9Em-Np6M9W0mnNl2I_07FaAdbpinxJL_my3QUd0EyW2Z7iSSWGZLYyoXTsi4j2SjwJ6kmujCmVGfvkQ4EnrNog3h2hiCiY0KkDoztWC2HxQnLnD_32bG9VRfFqUeM5klQA_KKsXx2vtSmwnGglPaSD4vtnkWieZG-dzhiklRh78oXnpQggUyyXVWOIiPPYcKiiN6Ry4-goSyAgYHVfIq-Gsbwws77MAXat602bLwPDGaqXzzh6Y-M9vBxM-SdC8g87DoOCLH82LZ1kHOKAwb_aDusffhcq6JDLZYiE2FMsf0fuY0SinL6LUbdaJ1LJVGfOEg)  |
+| 15    | Gpt-4 turbo with vision fails to outperform text-only gpt-4 turbo in the japan diagnostic radiology board examination     |[PDF](https://link.springer.com/content/pdf/10.1007/s11604-024-01561-z.pdf)  |
+| 16    | Diagnostic accuracy of vision-language models on japanese diagnostic radiology, nuclear medicine, and interventional radiology specialty board examinations  |[PDF](https://link.springer.com/content/pdf/10.1007/s11604-024-01633-0.pdf)  |
+| 17    |  Role of visual information in multimodal large language model performance: an evaluation using the japanese nuclear medicine board examination     |[PDF](https://link.springer.com/content/pdf/10.1007/s12149-024-01992-8.pdf)  |
 
 
 
@@ -192,64 +195,65 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##Papers on Segmentation using VLMs
+##Papers on Medical Image Synthesis using VLMs
 ---
 | Index | Paper Names  | PDF Link       |
 |:----:|:----------|:-----------|
-| 1    | 项目A      |[PDF](https://google.com)  |
-| 2    | 项目A      |[PDF](https://google.com)  |
+| 1    | A vision–language foundation model for the generation of realistic chest X-ray images      |[PDF](https://www.nature.com/articles/s41551-024-01246-y)  |
+| 2    | Enhancing Chest X-ray Diagnosis with Text-to-Image Generation: A Data Augmentation Case Study      |[PDF](https://pdf.sciencedirectassets.com/271537/1-s2.0-S0141938224X00025/1-s2.0-S0141938224000994/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBYaCXVzLWVhc3QtMSJHMEUCIQDZFwZq8AKhv8fMjucZwEGlEmxFMGeTXEmNrl37VChTmAIgUr1XQN72iXzFIBxbj89f%2BZLmloYt1JBVBaSFOjOd8gQqvAUIjv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDAxcHHVeTAblXvtL1yqQBVp%2BzbMgx4kOwn8LKBv%2Bvc5ylrIQgqXDrfB1RDvXMUIkVgo681T5ALmBM2G1hw7UEXY4G75js4sKZO1mIjZDL%2B9PQ8asRsixOTr%2Fh0Ah07BuPVYMgLmyuPQMW3R1e%2BLsE6bVtsPra6f4iH6zww2jBtrqwVplCQfJMMDvsEmoiA6ATVtpGR9CFIqDwg59hBFH01V47qoFuU75yqhAmDxVvDiGMW01qbCIhtAAoNOzT8ZyaALibbx%2FUGrDJCBhmwpGvUVvkfBp8PkAqVIPwEzMUlHRN4ialsg8%2BzN2kL3ieRFlfqLqNZgM%2BWtHzRw%2FjahRla6%2BqwQJtieVr5N8zhHOODZYzRJ54ELNbayL57cppYvOqAsRF%2FlGICoenR9LJMB81%2F1Zi8Q4oLMUkA760CPKyupFuXEXpZ1VRhDHZ73l7uR2MQvoCI5rNgImPo0Ngj%2B%2BpZ4dy3jK6s3549dhCdZuNAHLrcdpgs%2FwoBStjBiLF0RpVbpNAyus9bzbiJYymcmUeuyMFMJOa6R10t7IX1IZhZtvAaOAlp4ICN6gJlr%2FoCazv2OL1V2oUGgsEkeuyThAa%2Fe%2F8U7JvEBS%2BPxj2cg4BejpbYtgSY%2BivlfNaVgBGmW3X3FCs7ECwW%2B10F5XbnVcUYbOluVcNP%2BJ8RRGShPObnNLeaRkCI6Q0hVxYnzbvnZmqoHxn2bNfqr7CnQrjp4rwvoNp4pO6xHgEWTf9NiW1lHdr4nfkyZPV9%2FnMqjoytewzZA656FiiG%2BgGywKvPgPUN2cXVtwbl%2B3ytHg%2F93frwZ%2BCYQKK7oFEwkmHVsdPiwlZmb7kpJdusJUgQqGt5QWBocQ8WPcoym41Qq8He7zlG2ZNzocFweeFl%2Fyvv%2FbG8%2FWMJ7h2b8GOrEB%2FaPro0M3NjVL4FkiwF4%2B3z7fhnUKWzpNiWbmv5xDsxs68ATEpFf5jg%2FrCY19tM8FFOgJJFWmF2YA8%2Fg8xukRPzBvThjm7%2BWYbAhv1BmvWonKIgGeAUz05KqGS6zwJFMoRW1ywiGz4vnS3vwaMTOVwq5YmtBP9g9yb37nD2qLxNVYxeDxsK91M%2FN7pycmfLuvHNTIydwiAS%2BFDwoP0JxL72JXNhaJtYmZ%2BiaPcsQZv%2B0n&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250409T132220Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYRR3YI26Z%2F20250409%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=11799cef2c5ad4bbc278fdeff3bd4f69c32af3b429171466bedafba3b885e60d&hash=a5e5155b007eebd18d35782e08fb12fd54ec44cfd1799e7ce2358712e5966cda&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0141938224000994&tid=spdf-8f83767c-d704-4b86-8884-9ea1fade06ec&sid=6472ce05872ad34ab77a4da572218302f48dgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=120d595605025252530305&rr=92da500dbcb2dd48&cc=hk)  |
+| 3    | Finetuning of GLIDE Stable Diffusion Model for AI-Based Text-Conditional Image Synthesis of Dermoscopic Images      |[PDF](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1231436/pdf)  |
+| 4    | GenerateCT: Text-Conditional Generation of 3D Chest CT Volumes      |[PDF](https://arxiv.org/pdf/2305.16037)  |
+| 5    | HistoSyn: Histomorphology-Focused Pathology Image Synthesis      |[PDF](https://papers.miccai.org/miccai-2024/paper/0215_paper.pdf)  |
+| 6    | Medical Image Synthesis via Fine-Grained Image-Text Alignment and Anatomy-Pathology Prompting     |[PDF](https://arxiv.org/pdf/2403.06835)  |
+| 7    | MedSyn: Text-Guided Anatomy-Aware Synthesis of High-Fidelity 3-D CT Images      |[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10566053)  |
+| 8    | Vision-Language Generative Model for View-Specific Chest X-ray Generation      |[PDF](https://arxiv.org/pdf/2302.12172)  |
 
 
-##Papers on Segmentation using VLMs
+
+
+
+
+##Papers on Medical Image-Text Retrieval using VLMs
 ---
 | Index | Paper Names  | PDF Link       |
 |:----:|:----------|:-----------|
-| 1    | 项目A      |[PDF](https://google.com)  |
-| 2    | 项目A      |[PDF](https://google.com)  |
+| 1    | 3D-MIR: A BENCHMARK & EMPIRICAL STUDY ON 3D MEDICAL IMAGE RETRIEVAL IN RADIOLOGY      |[PDF](https://arxiv.org/pdf/2311.13752)  |
+| 2    | BIMCV-R: A Landmark Dataset for 3D CT Text-Image Retrieval     |[PDF](https://arxiv.org/pdf/2403.15992)  |
+| 3    | Medical Cross-Modal Prompt Hashing with Robust Noisy Correspondence Learning      |[PDF](https://papers.miccai.org/miccai-2024/paper/2150_paper.pdf)  |
+| 4    | Vision and Structured-Language Pretraining for Cross-Modal Food Retrieval      |[PDF](https://pdf.sciencedirectassets.com/271018/1-s2.0-S1077314224X00089/1-s2.0-S1077314224001528/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLWVhc3QtMSJGMEQCIC3VMDB0kACTSsbagk3tnJf%2FKVU8oc2Vp853JPdGuwvGAiB24P0oOBuQcZAw659zJeNUnLIsA8QXHYtdFkjGphIR%2Fiq7BQiO%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAUaDDA1OTAwMzU0Njg2NSIMpJAGc3kIW0yH0CuIKo8FVn2Rwi%2FD0%2BgvkCbE0Kr6Bb8na007EuIAFwhguS0MNidaEJkDuwHLVPsyYS1oHAg0cazDNqgrm%2ByfjqiyDv6Y3bySVfHUHqjkrVSfclLrY1VqML1Oe0AtRNcUl8cu5vRd%2Bwa6LLevhHOPsop9%2Fnnrvwzk5IcEhH9oRb0cH2nKnUGNgQwd8c%2BM%2FyI6auP9HT9OLwGD6wEPe025VO0%2Bzt%2FVemcrWh9JZoT2Ik10IWS6Fk742DtdUwZeEXJ6d02XRpVOc6H8G2orW1B2cOH78Cuu4tT4s8GqPbdu6W42XNvKaQya3tE9GLOOKSC94xmNDPv7ioozt1UQCsVxU2aGT00dmGimtosjz%2B3F5V3%2B%2BfTnl%2FaCc6jkcIJ3DCbQ7mkpz7qxCCQt%2BcDWRQ3O0ioSQ050IMamWPMUbvHEgkuLszGHhkOhhTh1kO1V8IFPwwzYuH7CqqTM70BCu7GL29oTMFo5%2FJno12VZqdnGzNDrwVN6R5UQJiZmBgxdVaW%2BfXREf0i%2Bl%2FdK9nQzGel6XFSBHrrEu7qNyCVxn5JAbbF%2FEFwpLdiHfqOOANXC2xSyZ3iKVUeechH4iQ05eUyeyXL7gALQYEdAsIKAeD%2FG21uooff4V%2BkopR0TVfGSgSVpf0jeruJJyvxsDegeByaLmU%2B6Rbhvc3gnPXLgRNGgR1D%2Bc%2B8rdqak6kqlKOe17qRbuzCPF42YsOzSFRJTJrPcTzs0ScYl09Beozb9aimo2BIodF%2F7Xppp2bsEW9IHwDYo90CmJVvxsH%2BS9fnXh2U4Qis1o1G5AikuNXe5VBsy4Rf55kUvDmzEriW%2FE7yG08C%2BHVp2b0we26yrMmiYDt8vVlo891DTuCBToRmF4QCiq8CW%2BB3X9TDG4Nm%2FBjqyAUq0%2BkYE1FGQ9pyuj1q62F2S%2FAOgdUuZmlkBfdy42Tdd8oAiL9EPvFV78lJzETCjrD7qM7YKHusEvsVsDU5WNTn7%2FYO8TGRyR2WTXLXrcJb%2F1MOgHFqUr3YzUdJUjiyWfDWftQSylM%2FHl9SCqstCcLwQ%2FeK2b6HpDMgkkrVK2F7jHFo8TT2Rp0LDp1o4lMUuJrbTwkRQhb%2B3U6Y0LqjvZZt7ViC4G%2FfVoj2ZBx9TKUSWliM%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250409T133622Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY5EEAGTGT%2F20250409%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=703db15078b74abe84a6a6d67fa339c19483230e7dd9a32f08db09dba5e72b80&hash=22127641c0726200583c8cd87a86b2cb02ca3dcb0212246cff0dd6d7ffafd8fc&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1077314224001528&tid=spdf-60b81dcd-a290-4c3d-b774-e51b7a9ea08a&sid=6472ce05872ad34ab77a4da572218302f48dgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=120d5956050251565a0551&rr=92da649b6d5ddf9d&cc=hk)  |
+| 5    | Vision-Language Modelling for Radiological Imaging and Reports in the Low Data Regime      |[PDF](https://arxiv.org/pdf/2303.17644)  |
+| 6    | X-TRA: Improving Chest X-ray Tasks with Cross-Modal Retrieval Augmentation      |[PDF](https://arxiv.org/pdf/2302.11352)  |
 
 
-##Papers on Segmentation using VLMs
+##Papers on Medical Multi-task Learning using VLMs
 ---
 | Index | Paper Names  | PDF Link       |
 |:----:|:----------|:-----------|
-| 1    | 项目A      |[PDF](https://google.com)  |
-| 2    | 项目A      |[PDF](https://google.com)  |
+| 1    | A Novel Detection and Classification Framework for Diagnosing Cerebral Microbleeds Using Transformer and Language      |[PDF](https://pmc.ncbi.nlm.nih.gov/articles/PMC11504022/pdf/bioengineering-11-00993.pdf)  |
+| 2    | Boosting Medical Image-based Cancer Detection via Text-guided Supervision from Reports      |[PDF](https://arxiv.org/pdf/2405.14230)  |
+| 3    | Cap2Seg: Leveraging Caption Generation for Enhanced Segmentation of COVID-19 Medical Images     |[PDF](https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2024.1439122/pdf)  |
+| 4    | CAT-ViL: Co-attention Gated Vision-Language Embedding for Visual Question Localized-Answering in Robotic Surgery      |[PDF](https://arxiv.org/pdf/2307.05182)  |
+| 5    | ChEX: Interactive Localization and Region Description in Chest X-Rays      |[PDF](https://arxiv.org/pdf/2404.15770)  |
+| 6    | fTSPL: Enhancing Brain Analysis with FMRI-Text Synergistic Prompt Learning      |[PDF](https://papers.miccai.org/miccai-2024/paper/2709_paper.pdf)  |
+| 7    | MAIRA-2: Grounded Radiology Report Generation      |[PDF](https://arxiv.org/pdf/2406.04449)  |
+| 8    | miniGPT-Med: Large Language Model as a General Interface for Radiology Diagnosis      |[PDF](https://arxiv.org/pdf/2407.04106?)  |
+| 9    | SAT-Morph: Unsupervised Deformable Medical Image Registration Using Vision Foundation Models with Anatomically Aware Text Prompt      |[PDF](https://link.springer.com/content/pdf/10.1007/978-3-031-73471-7_8.pdf?pdf=inline%20link)  |
+| 10    | Surgical-VQLA++: Adversarial contrastive learning for calibrated robust visual question-localized answering in robotic surgery      |[PDF](https://pdf.sciencedirectassets.com/272144/1-s2.0-S1566253524X00093/1-s2.0-S1566253524003804/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBUaCXVzLWVhc3QtMSJHMEUCIFlybi85ikujXjBMZefNM2XtUbYNd3DyUkWzCf9fWkveAiEA%2BmURGeNpDjIo%2BCxtgnrp2z5A7xAgBCl5EbloeSsHzJ8quwUIjv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDHCEfDnawnrlU11ZKSqPBR82pdLURcxnzQ0f28DqWk5xeXIs7zyz5be1wrpA1N1CossKD01zd%2FYnTIUfnZC%2Fv%2F%2FS%2BHgCNu%2F4meojz2CnbqD8pgPeVbOHma4608oJY3fk5uQuNkMdUVMPX0V0yKa0nbqbcKFpa38Fouq5DAs%2BhrdXqTyK7BKaY4TlQtsrDuCsP4uBj3DaMkUC3go45oPhmEU1toZyeTDKuSCQhXsB4rpPvFUIDVi0P2%2BkjaeHW7TN50XR%2Bbs%2B7HV0hq2Y%2FvmsybG6300Y56NMNlyq13x%2FUNsomPnvs%2FoDwXMXGexaHZJI6weCgGwtZUlHAI8tl6Azez7u7Zlnz3RfUy%2BSVIr29mydZdotzcW06gSCjfoCEFQsbuWSZDBHdwozI8Hy1sl5ZOo%2Fse8aAF%2BFzfjo3zsziSGeI4YluzCkZlsw2byjv1vTPNbW5Ogin796ntlHRJOhWnxwThfTdD7AwRPC4bs%2ByzhRycIvyPzvyjMWMU6UEehsLBTaTr%2F3YMmhZvN8ZShNTiT9RT0VE42n8ROF4%2BizQ%2B4Ne1Whu%2BuvgWU4mxSHqEIRN7TPY7AH9Y1uqbObiY4GVT7LSC32gU3dgH7bdMvcNQqA%2FjC9zz%2BZWnRaNs4ztbAF20G%2FHB6YMxfzH9dKmR6yA65Bq2wJaaaFcuanpNeqVgCIRYwxIyMGZxie4OrDoRR8mrlzW0hlSImnPR2QOeULkJfGXM1Gj1kYAltLkYlPcQomx0OJgOjWIjil4Jw%2FajuLXC9v6HkOEliUN52OXsrCJz1WLHy2oY0dE7HmdREeZIOyb4V3Oee%2BO3i4uwY37292jTwzSAzxruSQKKE570AY4NGFQcIuAMJLuYTcLwX5LKkD6NmE7GdaJRAw13UIlvcw%2FNnZvwY6sQEQFivi%2FliY%2FiLapttrzLn75jdlAD1fstokw4PofC1wpsAYGlbAq1OSwRnk7onloF%2Fv%2B%2F3lllsmcJVbV6K98F0OESbrqyrNgfue1fFIDPvXBB8bvQ8HrVFt0sFxMDTukRs1MxCPfK5Gj6ZFSk0wmGB3uYr5%2BTHDCRkJ%2BdVwJhW1BupPwaTOPPqxdhpBJDymHF36kezlmO2%2FQ5QMTgj%2FwqYFViBIrH6lWNjFeYYysliszRw%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250409T134228Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYUNPM3AXC%2F20250409%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=181e671fdd353e5a2832ad08ad450d5c25b3108f3478adf92dd91419d5252a2f&hash=6f77bc086f61e85bc434bdfc047adf7d4f48a64d83e6a071c773f55dead5213c&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1566253524003804&tid=spdf-76f7dcca-59ff-4fe5-bf66-a937bbef34df&sid=6472ce05872ad34ab77a4da572218302f48dgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=120d5956050251065b0354&rr=92da6d8d3b67df9d&cc=hk)  |
+| 11    | Towards Interactive and Interpretable Image Retrieval-Based Diagnosis: Enhancing Brain Tumor Classification with LLM Explanations and Latent Structure Preservation      |[PDF](https://link.springer.com/content/pdf/10.1007/978-3-031-66535-6_35.pdf?pdf=inline%20link)  |
+| 12    | VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge      |[PDF](https://arxiv.org/pdf/2411.12915)  |
 
 
 
 
-##Papers on Segmentation using VLMs
+##Papers on Other Image Analysis Tasks using VLMs
 ---
-| Index | Paper Names  | PDF Link       |
-|:----:|:----------|:-----------|
-| 1    | 项目A      |[PDF](https://google.com)  |
-| 2    | 项目A      |[PDF](https://google.com)  |
+| Index | Paper Names  | Tasks  | PDF Link       |
+|:----:|:----------|:----------|:-----------|
+| 1    | M2Trans: Multi-Modal Regularized Coarse-to-Fine Transformer for Ultrasound Image Super-Resolution     |Medical Image Super-resolution |[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10663841)  |
+| 2    | Spatially Covariant Image Registration with Text Prompts     |Medical Image Registration |[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10684804)  |
+| 3    | Efficient Medical Images Text Detection with Vision-Language Pre-training Approach    |Object Detection |[PDF](https://proceedings.mlr.press/v222/li24e/li24e.pdf)  |
+| 4    | Multiple Prompt Fusion for Zero-Shot Lesion Detection Using Vision-Language Models     |Object Detection |[PDF](https://link.springer.com/content/pdf/10.1007/978-3-031-43904-9_28.pdf?pdf=inline%20link)  |
+| 5    | Zero-Shot Nuclei Detection via Visual-Language Pre-trained Models     |Object Detection |[PDF](https://arxiv.org/pdf/2306.17659)  |
 
 
 
