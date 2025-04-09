@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/68f72c53-399f-4495-9275-6865656cf12f)#Taming Vision-Language Models for Medical Image Analysis: A Comprehensive Review
+#Taming Vision-Language Models for Medical Image Analysis: A Comprehensive Review
 ---
 
 ##The summary of natural and medical VLMs which are utilzed in medical image analysis tasks.
