@@ -1,8 +1,6 @@
-#Taming Vision-Language Models for Medical Image Analysis: A Comprehensive Review
----
+# Taming Vision-Language Models for Medical Image Analysis: A Comprehensive Review
 
-##The summary of natural and medical VLMs which are utilzed in medical image analysis tasks.
----
+## The summary of natural and medical VLMs which are utilzed in medical image analysis tasks.
 | Index | Model Names  | Paper Names  | Natrual\Medical    | Paper Link       |
 |:----:|:----------|:----------|:-------------------------|:-----------|
 | 1    | VL-BERT| VL-BERT: Pre-training of Generic Visual-Linguistic Representations      | Natrual       |[PDF](https://arxiv.org/pdf/1908.08530)  |
@@ -55,8 +53,7 @@
 | 48    |UniMed-CLIP| UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for Diverse Medical Imaging Modalities      | Medical       |[PDF](https://arxiv.org/pdf/2412.10372)  |
 
 
-##Medical Report Generation
----
+## Medical Report Generation
 | Index | Paper Names  | PDF Link       |
 |:----:|:----------|:-----------|
 | 1    | Automatic image and text-based description for colorectal polyps using BASIC classification      |[PDF](https://pdf.sciencedirectassets.com/271219/1-s2.0-S0933365721X00115/1-s2.0-S0933365721001718/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBEaCXVzLWVhc3QtMSJGMEQCIESGdq%2FDa9rvL5PYnG4fcNpkngfzmXtMFE5HQ%2F4DWg1vAiBpLj%2Fsw4%2FbQJxr5XNF6pibt4rMMOOReW2fayGtAzm2XSq8BQiK%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAUaDDA1OTAwMzU0Njg2NSIMRAJeaPBTcxXD4HnvKpAF968bFQ28jTyyramY34Upapy5ZPCSQPVnquhEGoEjpypZ4%2F%2F0lwrSs8SH7Aa5GDr77d1CN%2FMY4SCBI4WXNhm4VJuAClme0qwsT5dZq0JrLQk4ULVjgfUKs76fKjnxNdgvULZ3P2SRpm3JJUUcCxgb9usK2NuJlQYrk5NZo3jM4WcCvnHvTG6MeQqdVPJ%2FfAjw8kfhzPcBXuObE2jo74xD0B4DjtWQbpWZ3WJjgDlWQBkTAJASGzSenq%2FgFJXSjWB1pPoE6b91SFVz0S6I9p356FmnGnq%2Bds53LFy2AhHVRK4IR0AMdyEU%2FC9tCoVhZHKl63Hu%2BKNtzhAsHTvieA1orTxZL7FHKiRMdXqj5dV6qzAfBv6qPAt%2FRUoTmoISfT%2Bjv8m2DhGKpk78Ta1eaMGC5sQ0gdkUfF7wYj6DE5swGegfnmta2iNQkxeWUI073bh%2BL2QMx8vUbNWQfRZEi31pzIWbTOyhtEjDSQZut6DOw5cBshXvfPOmOvTy70eYiltPfRvTJxhATtNhuDs%2F0QN3JfoEyjDbJckbQ%2B4FxO0IgFDd%2FK8OUq%2FuXkqMzvhQ3D%2BSB%2BPb5aJDh6sTjAt2k%2BhUla2wmxS7wxqNBle1Kq6OjkjNtX83pZ%2FKckhkytN8lLKAlFNodbiX7txKIrfAHRZ5Iiu9SQVa%2F0TBdVWTjkQkapyn1sQshR8xS8gELBQwiDdfU2%2BnOcSay5RMgQS8sSrXMarkn9ZP4KVZI1ggJ5MGGhhH3XVSIVmUALRXYyw2e2x36j%2Fqy2nXj1C7JxVgqooC7kxDa%2FU587IDHCobzNRxzRKBH8UN%2FxAUUhf7VWNQ1Xk2Y6Gt1RU3i6dUsCogm%2BEv0abIkFqtWF4ye4FA%2F%2F9Mgs8w5u7YvwY6sgGaXQrXSJunAN%2FM1mYYmIkxgqw1XmUWsmp4XoT%2FVY4f8ec8gPeaQuFaEbqtaDF5MQI7gyrBW8yoFNQbf0xknoBOBwaQokaNJVq7oRl7t%2BOcA0cMGVd9IJxkeMdPebxZi%2F%2FQoCaM9fOB89jVd8HWQhnlxvSyJmujeq0EywG3z0KFeRl41Y0DSlEE9ymxv3Q9fZCAn6pqhZFMnZefGtErMx5K1ay56bjrxqJYO8WeiTpEtMKM&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250409T094850Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY7AQD6ZFH%2F20250409%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e838f088a3b5967bb888670beebc7a2a9e574b2ececc3bcb098b7939eb96b670&hash=8a1ca1f7005e141f23bdf14c22bcb2f3ddb7d51f6ca0f3105db9f4ea8086d425&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0933365721001718&tid=spdf-65a3a3b8-1692-4c3d-a866-caf985e0b786&sid=6472ce05872ad34ab77a4da572218302f48dgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=120d5956055a5655570153&rr=92d9174f480e84be&cc=hk)  |
@@ -83,8 +80,7 @@
 
 
 
-##Medical VQA
----
+## Medical VQA
 | Index | Paper Names  | PDF Link       |
 |:----:|:----------|:-----------|
 | 1    | 3D-CT-GPT: Generating 3D Radiology Reports through Integration of Large Vision-Language Models      |[PDF](https://arxiv.org/pdf/2409.19330)  |
@@ -108,8 +104,7 @@
 
 
 
-##Segmentation
----
+## Segmentation
 | Index | Paper Names  | PDF Link       |
 |:----:|:----------|:-----------|
 | 1    | ABP: Asymmetric Bilateral Prompting for Text-Guided Medical Image Segmentation      |[PDF](https://papers.miccai.org/miccai-2024/paper/1674_paper.pdf)  |
@@ -144,8 +139,7 @@
 
 
 
-##Anomaly Detection
----
+## Anomaly Detection
 | Index | Paper Names  | PDF Link       |
 |:----:|:----------|:-----------|
 | 1    | AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection      |[PDF](https://arxiv.org/pdf/2407.15795)  |
@@ -165,8 +159,7 @@
 
 
 
-##Medical Image Classification
----
+## Medical Image Classification
 | Index | Paper Names  | PDF Link       |
 |:----:|:----------|:-----------|
 | 1    | A 360° view for large language models: Early detection of amblyopia in children using multi-view eye movement recordings      |[PDF](https://pmc.ncbi.nlm.nih.gov/articles/PMC11100845/pdf/nihpp-2024.05.03.24306688v2.pdf)  |
@@ -203,8 +196,7 @@
 
 
 
-##Medical Image Synthesis
----
+## Medical Image Synthesis
 | Index | Paper Names  | PDF Link       |
 |:----:|:----------|:-----------|
 | 1    | A vision–language foundation model for the generation of realistic chest X-ray images      |[PDF](https://www.nature.com/articles/s41551-024-01246-y)  |
@@ -221,8 +213,7 @@
 
 
 
-##Medical Image-Text Retrieval
----
+## Medical Image-Text Retrieval
 | Index | Paper Names  | PDF Link       |
 |:----:|:----------|:-----------|
 | 1    | 3D-MIR: A BENCHMARK & EMPIRICAL STUDY ON 3D MEDICAL IMAGE RETRIEVAL IN RADIOLOGY      |[PDF](https://arxiv.org/pdf/2311.13752)  |
@@ -233,8 +224,7 @@
 | 6    | X-TRA: Improving Chest X-ray Tasks with Cross-Modal Retrieval Augmentation      |[PDF](https://arxiv.org/pdf/2302.11352)  |
 
 
-##Medical Multi-task Learning
----
+## Medical Multi-task Learning
 | Index | Paper Names  | PDF Link       |
 |:----:|:----------|:-----------|
 | 1    | A Novel Detection and Classification Framework for Diagnosing Cerebral Microbleeds Using Transformer and Language      |[PDF](https://pmc.ncbi.nlm.nih.gov/articles/PMC11504022/pdf/bioengineering-11-00993.pdf)  |
@@ -253,8 +243,7 @@
 
 
 
-##Other Image Analysis Tasks
----
+## Other Image Analysis Tasks
 | Index | Paper Names  | Tasks  | PDF Link       |
 |:----:|:----------|:----------|:-----------|
 | 1    | M2Trans: Multi-Modal Regularized Coarse-to-Fine Transformer for Ultrasound Image Super-Resolution     |Medical Image Super-resolution |[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10663841)  |
