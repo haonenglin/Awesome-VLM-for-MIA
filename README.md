@@ -1,34 +1,34 @@
 # Taming Vision-Language Models for Medical Image Analysis: A Comprehensive Review
 
 ## The summary of natural and medical VLMs which are utilzed in medical image analysis tasks.
-| Index | Model Names  | Paper Names  | Natrual\Medical    | Paper Link       |
+| Index | Model Names  | Paper Names  | Natural\Medical    | Paper Link       |
 |:----:|:----------|:----------|:-------------------------|:-----------|
-| 1    | VL-BERT| VL-BERT: Pre-training of Generic Visual-Linguistic Representations      | Natrual       |[PDF](https://arxiv.org/pdf/1908.08530)  |
-| 2    |CLIP| Learning Transferable Visual Models From Natural Language Supervision      | Natrual       |[PDF](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf)  |
-| 3    | GLIDE| GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models      | Natrual       |[PDF](https://arxiv.org/pdf/2112.10741)  |
-| 4    | BLIP| BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation      | Natrual       |[PDF](https://proceedings.mlr.press/v162/li22n/li22n.pdf)  |
-| 5    | GLIP| Grounded Language-Image Pre-training      | Natrual       |[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Grounded_Language-Image_Pre-Training_CVPR_2022_paper.pdf)  |
-| 6    | Stable Diffusion| High-resolution image synthesis with latent diffusion models      | Natrual       |[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf)  |
-| 7    | ALBEF| Align before Fuse: Vision and Language Representation Learning with Momentum Distillation      | Natrual       |[PDF](https://proceedings.neurips.cc/paper_files/paper/2021/file/505259756244493872b7709a8a01b536-Paper.pdf)  |
-| 8    |BLIP-2| BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models      | Natrual       |[PDF](https://proceedings.mlr.press/v202/li23q/li23q.pdf)  |
-| 9    | Caption Anything| Caption anything: Interactive image description with diverse multimodal controls      | Natrual       |[PDF](https://arxiv.org/pdf/2305.02677)  |
-| 10    | DALL·E 3| Improving Image Generation with Better Captions      | Natrual       |[PDF](https://cdn.openai.com/papers/dall-e-3.pdf)  |
-| 11    | Dreamlike Photoreal| -      | Natrual       |- |
-| 12    | EVA-CLIP| EVA-CLIP: Improved Training Techniques for CLIP at Scale      | Natrual       |[PDF](https://arxiv.org/pdf/2303.15389)  |
-| 13    | Gemini 1.0| Gemini: A Family of Highly Capable Multimodal Models      | Natrual       |[PDF](https://arxiv.org/pdf/2312.11805)  |
-| 14    | Grounding DINO| Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection      | Natrual       |[PDF](https://arxiv.org/pdf/2303.05499) |
-| 15    |MiniGPT-4| MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models      | Natrual       |[PDF](https://arxiv.org/pdf/2304.10592)  |
-| 16    | MiniGPT-v2| MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning      | Natrual       |[PDF](https://arxiv.org/pdf/2310.09478)  |
-| 17    | SAM| Segment Anything      | Natrual       |[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Kirillov_Segment_Anything_ICCV_2023_paper.pdf)  |
-| 18    | SAT| One Model to Rule them All: Towards Universal Segmentation for Medical Images with Text Prompts      | Natrual       |[PDF](https://arxiv.org/pdf/2312.17183)  |
-| 19    | Vita-CLIP| Vita-CLIP: Video and text adaptive CLIP via Multimodal Prompting      | Natrual       |[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Wasim_Vita-CLIP_Video_and_Text_Adaptive_CLIP_via_Multimodal_Prompting_CVPR_2023_paper.pdf)  |
-| 20    | Chexagent| A Vision-Language Foundation Model to Enhance Efficiency of Chest X-ray Interpretation      | Natrual       |[PDF](https://arxiv.org/pdf/2401.12208)  |
-| 21    | Claude 3 Opus| -      | Natrual       |-  |
-| 22    | Gemini 1.5 Pro| Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context      | Natrual       |[PDF](https://arxiv.org/pdf/2403.05530)  |
-| 23    | GPT 4V| -      | Natrual       |-  |
-| 24    | GPT 4 Turbo| Gpt-4 technical report      | Natrual       |[PDF](https://arxiv.org/pdf/2303.08774)  |
-| 25    | GPT 4o| Gpt-4o system card      | Natrual       |[PDF](https://arxiv.org/pdf/2410.21276?)  |
-| 26    | LLaMA 3| The Llama 3 Herd of Models      | Natrual       |[PDF](https://arxiv.org/pdf/2407.21783)  |
+| 1    | VL-BERT| VL-BERT: Pre-training of Generic Visual-Linguistic Representations      | Natural       |[PDF](https://arxiv.org/pdf/1908.08530)  |
+| 2    |CLIP| Learning Transferable Visual Models From Natural Language Supervision      | Natural       |[PDF](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf)  |
+| 3    | GLIDE| GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models      | Natural       |[PDF](https://arxiv.org/pdf/2112.10741)  |
+| 4    | BLIP| BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation      | Natural       |[PDF](https://proceedings.mlr.press/v162/li22n/li22n.pdf)  |
+| 5    | GLIP| Grounded Language-Image Pre-training      | Natural       |[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Grounded_Language-Image_Pre-Training_CVPR_2022_paper.pdf)  |
+| 6    | Stable Diffusion| High-resolution image synthesis with latent diffusion models      | Natural       |[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf)  |
+| 7    | ALBEF| Align before Fuse: Vision and Language Representation Learning with Momentum Distillation      | Natural       |[PDF](https://proceedings.neurips.cc/paper_files/paper/2021/file/505259756244493872b7709a8a01b536-Paper.pdf)  |
+| 8    |BLIP-2| BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models      | Natural       |[PDF](https://proceedings.mlr.press/v202/li23q/li23q.pdf)  |
+| 9    | Caption Anything| Caption anything: Interactive image description with diverse multimodal controls      | Natural       |[PDF](https://arxiv.org/pdf/2305.02677)  |
+| 10    | DALL·E 3| Improving Image Generation with Better Captions      | Natural       |[PDF](https://cdn.openai.com/papers/dall-e-3.pdf)  |
+| 11    | Dreamlike Photoreal| -      | Natural       |- |
+| 12    | EVA-CLIP| EVA-CLIP: Improved Training Techniques for CLIP at Scale      | Natural       |[PDF](https://arxiv.org/pdf/2303.15389)  |
+| 13    | Gemini 1.0| Gemini: A Family of Highly Capable Multimodal Models      | Natural       |[PDF](https://arxiv.org/pdf/2312.11805)  |
+| 14    | Grounding DINO| Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection      | Natural       |[PDF](https://arxiv.org/pdf/2303.05499) |
+| 15    |MiniGPT-4| MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models      | Natural       |[PDF](https://arxiv.org/pdf/2304.10592)  |
+| 16    | MiniGPT-v2| MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning      | Natural       |[PDF](https://arxiv.org/pdf/2310.09478)  |
+| 17    | SAM| Segment Anything      | Natural       |[PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Kirillov_Segment_Anything_ICCV_2023_paper.pdf)  |
+| 18    | SAT| One Model to Rule them All: Towards Universal Segmentation for Medical Images with Text Prompts      | Natural       |[PDF](https://arxiv.org/pdf/2312.17183)  |
+| 19    | Vita-CLIP| Vita-CLIP: Video and text adaptive CLIP via Multimodal Prompting      | Natural       |[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Wasim_Vita-CLIP_Video_and_Text_Adaptive_CLIP_via_Multimodal_Prompting_CVPR_2023_paper.pdf)  |
+| 20    | Chexagent| A Vision-Language Foundation Model to Enhance Efficiency of Chest X-ray Interpretation      | Natural       |[PDF](https://arxiv.org/pdf/2401.12208)  |
+| 21    | Claude 3 Opus| -      | Natural       |-  |
+| 22    | Gemini 1.5 Pro| Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context      | Natural       |[PDF](https://arxiv.org/pdf/2403.05530)  |
+| 23    | GPT 4V| -      | Natural       |-  |
+| 24    | GPT 4 Turbo| Gpt-4 technical report      | Natural       |[PDF](https://arxiv.org/pdf/2303.08774)  |
+| 25    | GPT 4o| Gpt-4o system card      | Natural       |[PDF](https://arxiv.org/pdf/2410.21276?)  |
+| 26    | LLaMA 3| The Llama 3 Herd of Models      | Natural       |[PDF](https://arxiv.org/pdf/2407.21783)  |
 | 27    | Clinical-BERT| Clinical-BERT: Vision-Language Pre-training for Radiograph Diagnosis and Reports Generation      | Medical       |[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/20204/19963)  |
 | 28    | MedCLIP| MedCLIP: Contrastive Learning from Unpaired Medical Images and Text      | Medical       |[PDF](https://pmc.ncbi.nlm.nih.gov/articles/PMC11323634/pdf/nihms-2012083.pdf)  |
 | 29    | BiomedCLIP|BiomedCLIP: a multimodal biomedical foundation model pretrained from fifteen million scientific image-text pairs      | Medical       |[PDF](https://arxiv.org/pdf/2303.00915)  |
