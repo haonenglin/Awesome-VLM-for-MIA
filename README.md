@@ -163,11 +163,14 @@
 | 3    | CLIP-AD: A Language-Guided Staged Dual-Path Model for Zero-Shot Anomaly Detection      |[PDF](https://arxiv.org/pdf/2311.00453)  |
 | 4    | CONTRASTIVE LANGUAGE PROMPTING TO EASE FALSE POSITIVES IN MEDICAL ANOMALY DETECTION      |[PDF](https://arxiv.org/pdf/2411.07546)  |
 | 5    | Exploring Zero-Shot Anomaly Detection with CLIP in Medical Imaging: Are We There Yet?      |[PDF](https://arxiv.org/pdf/2411.09310)  |
-| 6    | MediCLIP: Adapting CLIP for Few-Shot Medical Image Anomaly Detection      |[PDF](https://arxiv.org/pdf/2405.11315)  |
-| 7    | Multimodal Fusion and Knowledge Distillation for Improved Anomaly Detection      |[PDF](https://link.springer.com/content/pdf/10.1007/s00371-024-03723-6.pdf)  |
-| 8    | Position-Guided Prompt Learning for Anomaly Detection in Chest X-Rays      |[PDF](https://arxiv.org/pdf/2405.11976)  |
-| 9    |Prompting Vision-Language Models for Dental Notation Aware Abnormality Detection      |[PDF](https://www.researchgate.net/profile/Chenlin-Du-3/publication/385145160_Prompting_Vision-Language_Models_for_Dental_Notation_Aware_Abnormality_Detection/links/6791c29195e02f182eb0bb46/Prompting-Vision-Language-Models-for-Dental-Notation-Aware-Abnormality-Detection.pdf)  |
-| 10    | Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Sample Prompts      |[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Toward_Generalist_Anomaly_Detection_via_In-context_Residual_Learning_with_Few-shot_CVPR_2024_paper.pdf)  |
+| 6    | IQE-CLIP: Instance-aware Query Embedding for Zero-/Few-shot Anomaly Detection in Medical Domain      |[PDF](https://arxiv.org/abs/2506.10730)  |
+| 7    | MediCLIP: Adapting CLIP for Few-Shot Medical Image Anomaly Detection      |[PDF](https://arxiv.org/pdf/2405.11315)  |
+| 8    | Multimodal Fusion and Knowledge Distillation for Improved Anomaly Detection      |[PDF](https://link.springer.com/content/pdf/10.1007/s00371-024-03723-6.pdf)  |
+| 9    | Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images |[PDF](https://arxiv.org/abs/2508.15256)  |
+| 10    | Position-Guided Prompt Learning for Anomaly Detection in Chest X-Rays      |[PDF](https://arxiv.org/pdf/2405.11976)  |
+| 11    |Prompting Vision-Language Models for Dental Notation Aware Abnormality Detection      |[PDF](https://www.researchgate.net/profile/Chenlin-Du-3/publication/385145160_Prompting_Vision-Language_Models_for_Dental_Notation_Aware_Abnormality_Detection/links/6791c29195e02f182eb0bb46/Prompting-Vision-Language-Models-for-Dental-Notation-Aware-Abnormality-Detection.pdf)  |
+| 12    | SD-MAD: Sign-Driven Few-shot Multi-Anomaly Detection in Medical Images     |[PDF](https://arxiv.org/abs/2505.16659)  |
+| 13    | Toward Generalist Anomaly Detection via In-context Residual Learning with Few-shot Sample Prompts      |[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Toward_Generalist_Anomaly_Detection_via_In-context_Residual_Learning_with_Few-shot_CVPR_2024_paper.pdf)  |
 
 
 
