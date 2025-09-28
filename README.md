@@ -225,9 +225,12 @@
 | 3    | Finetuning of GLIDE Stable Diffusion Model for AI-Based Text-Conditional Image Synthesis of Dermoscopic Images      |[PDF](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1231436/pdf)  |
 | 4    | GenerateCT: Text-Conditional Generation of 3D Chest CT Volumes      |[PDF](https://arxiv.org/pdf/2305.16037)  |
 | 5    | HistoSyn: Histomorphology-Focused Pathology Image Synthesis      |[PDF](https://papers.miccai.org/miccai-2024/paper/0215_paper.pdf)  |
-| 6    | Medical Image Synthesis via Fine-Grained Image-Text Alignment and Anatomy-Pathology Prompting     |[PDF](https://arxiv.org/pdf/2403.06835)  |
-| 7    | MedSyn: Text-Guided Anatomy-Aware Synthesis of High-Fidelity 3-D CT Images      |[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10566053)  |
-| 8    | Vision-Language Generative Model for View-Specific Chest X-ray Generation      |[PDF](https://arxiv.org/pdf/2302.12172)  |
+| 6    | Leveraging Foundation Models for Clinically Instructed Tumor Image Synthesis in Renal Cell Carcinoma      |[PDF](https://ieeexplore.ieee.org/abstract/document/10980760/)  |
+| 7    | Medical Image Synthesis via Fine-Grained Image-Text Alignment and Anatomy-Pathology Prompting     |[PDF](https://arxiv.org/pdf/2403.06835)  |
+| 8    | MedSyn: Text-Guided Anatomy-Aware Synthesis of High-Fidelity 3-D CT Images      |[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10566053)  |
+| 9    | Pixel Perfect MegaMed: A Megapixel-Scale Vision-Language Foundation Model for Generating High Resolution Medical Images      |[PDF](https://link.springer.com/chapter/10.1007/978-3-032-05472-2_27)  |
+| 10    | ToPoFM: Topology-Guided Pathology Foundation Model for High-Resolution Pathology Image Synthesis with Cellular-Level Control      |[PDF](https://ieeexplore.ieee.org/abstract/document/10915718/)  |
+| 11    | Vision-Language Generative Model for View-Specific Chest X-ray Generation      |[PDF](https://arxiv.org/pdf/2302.12172)  |
 
 
 
